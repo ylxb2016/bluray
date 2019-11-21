@@ -1,6 +1,6 @@
 # 之前已在CentOS7上正常运行，正在尝试修改脚本中。
 
-==施工中，还不能在CentOS7上运行==
+`施工中，还不能在CentOS7上运行`
 
 # Blu-ray
 > Automatic Blu-ray Disk Upload Toolkit  
